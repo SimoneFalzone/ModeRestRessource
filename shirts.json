@@ -1,9 +1,22 @@
 {
   "replies": [
     {
-      "type": "text",
-      "content": "Hello world!"
-    }
+        "type": "carousel",
+        "content": [
+          {
+            "title": "Shirt 1",
+            "subtitle": "Shirt 1",
+            "imageUrl": "https://cms.brnstc.de/product_images/435x596/17/06/100062672211001_0.jpg",
+            "buttons": [
+              {
+                "title": "Buy",
+                "type": "BUTTON_1_TYPE",
+                "value": "BUTTON_1_VALUE"
+              }
+            ]
+          }
+        ]
+      }
   ],
   "conversation": {
     "language": "en"
