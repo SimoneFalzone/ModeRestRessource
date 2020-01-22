@@ -4,9 +4,33 @@
         "type": "carousel",
         "content": [
           {
-            "title": "Shirt 1",
-            "subtitle": "Shirt 1",
+            "title": "POLO RALPH LAUREN",
+            "subtitle": "Jerseyhemd Custom Fit",
             "imageUrl": "https://cms.brnstc.de/product_images/435x596/17/06/100062672211001_0.jpg",
+            "buttons": [
+              {
+                "title": "Buy",
+                "type": "BUTTON_1_TYPE",
+                "value": "BUTTON_1_VALUE"
+              }
+            ]
+          },
+          {
+            "title": "BOSS",
+            "subtitle": "Piqué-Hemd RONNI Slim Fit",
+            "imageUrl": "https://cms.brnstc.de/product_images/435x596/17/06/100062672211001_0.jpg",
+            "buttons": [
+              {
+                "title": "Buy",
+                "type": "BUTTON_1_TYPE",
+                "value": "BUTTON_1_VALUE"
+              }
+            ]
+          },
+          {
+            "title": "FIL NOIR",
+            "subtitle": "Hemd TREVISO Slim Fit",
+            "imageUrl": "https://cms.brnstc.de/product_images/435x596/19/12/100100107217000_0.jpg",
             "buttons": [
               {
                 "title": "Buy",
