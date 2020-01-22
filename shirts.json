@@ -6,9 +6,6 @@
     }
   ],
   "conversation": {
-    "language": "en",
-    "memory": {
-      "user": "Bob"
-    }
+    "language": "en"
   }
 }
