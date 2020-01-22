@@ -10,8 +10,8 @@
               "buttons": [
                 {
                   "title": "Buy",
-                  "type": "BUTTON_1_TYPE",
-                  "value": "BUTTON_1_VALUE"
+                  "type": "web_url",
+                  "value": "https://www.breuninger.com/de/marken/valentino-garavani/sneaker-backnet/1001001841/p/?variant=419a54d143a0dfea4bc0ed4c4446d03c"
                 }
               ]
             },
@@ -22,8 +22,8 @@
               "buttons": [
                 {
                   "title": "Buy",
-                  "type": "BUTTON_1_TYPE",
-                  "value": "BUTTON_1_VALUE"
+                  "type": "web_url",
+                  "value": "https://www.breuninger.com/de/marken/givenchy/sneaker-urban-street/1000878539/p/"
                 }
               ]
             },
@@ -34,8 +34,8 @@
               "buttons": [
                 {
                   "title": "Buy",
-                  "type": "BUTTON_1_TYPE",
-                  "value": "BUTTON_1_VALUE"
+                  "type": "web_url",
+                  "value": "https://www.breuninger.com/de/marken/golden-goose-deluxe-brand/sneaker-superstar/1000896733/p/"
                 }
               ]
             }

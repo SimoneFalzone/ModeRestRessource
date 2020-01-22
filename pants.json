@@ -11,7 +11,7 @@
                 {
                   "title": "Buy",
                   "type": "web_url",
-                  "value": "https://www.breuninger.com/de/marken/polo-ralph-lauren/jerseyhemd-custom-fit/1000626722/p/?variant=ceaf1b8c910307604699a1559acadb74"
+                  "value": "https://www.breuninger.com/de/marken/sandro/hose-im-jogging-stil/1000933498/p/"
                 }
               ]
             },
@@ -22,8 +22,8 @@
               "buttons": [
                 {
                   "title": "Buy",
-                  "type": "BUTTON_1_TYPE",
-                  "value": "BUTTON_1_VALUE"
+                  "type": "web_url",
+                  "value": "https://www.breuninger.com/de/marken/boss/chino-schino-slim-fit/1000901687/p/"
                 }
               ]
             },
@@ -34,8 +34,8 @@
               "buttons": [
                 {
                   "title": "Buy",
-                  "type": "BUTTON_1_TYPE",
-                  "value": "BUTTON_1_VALUE"
+                  "type": "web_url",
+                  "value": "https://www.breuninger.com/de/marken/boss/chino-modern-slim-fit/1000904567/p/"
                 }
               ]
             }

@@ -10,8 +10,8 @@
             "buttons": [
               {
                 "title": "Buy",
-                "type": "BUTTON_1_TYPE",
-                "value": "BUTTON_1_VALUE"
+                "type": "web_url",
+                "value": "https://www.breuninger.com/de/marken/polo-ralph-lauren/jerseyhemd-custom-fit/1000626722/p/?variant=ceaf1b8c910307604699a1559acadb74"
               }
             ]
           },
@@ -22,8 +22,8 @@
             "buttons": [
               {
                 "title": "Buy",
-                "type": "BUTTON_1_TYPE",
-                "value": "BUTTON_1_VALUE"
+                "type": "web_url",
+                "value": "https://www.breuninger.com/de/marken/boss/pique-hemd-ronni-slim-fit/1000953016/p/"
               }
             ]
           },
@@ -34,8 +34,8 @@
             "buttons": [
               {
                 "title": "Buy",
-                "type": "BUTTON_1_TYPE",
-                "value": "BUTTON_1_VALUE"
+                "type": "web_url",
+                "value": "https://www.breuninger.com/de/marken/fil-noir/hemd-treviso-slim-fit/1001001072/p/"
               }
             ]
           }
