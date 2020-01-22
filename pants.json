@@ -1,0 +1,48 @@
+{
+    "replies": [
+      {
+          "type": "carousel",
+          "content": [
+            {
+              "title": "sandro",
+              "subtitle": "Hose im Jogging-Stil",
+              "imageUrl": "https://cms.brnstc.de/product_images/435x596/20/01/100093349812000_0.jpg",
+              "buttons": [
+                {
+                  "title": "Buy",
+                  "type": "BUTTON_1_TYPE",
+                  "value": "BUTTON_1_VALUE"
+                }
+              ]
+            },
+            {
+              "title": "BOSS",
+              "subtitle": "Chino SCHINO Slim Fit",
+              "imageUrl": "https://cms.brnstc.de/product_images/435x596/19/11/100090168713000_0.jpg",
+              "buttons": [
+                {
+                  "title": "Buy",
+                  "type": "BUTTON_1_TYPE",
+                  "value": "BUTTON_1_VALUE"
+                }
+              ]
+            },
+            {
+              "title": "BOSS",
+              "subtitle": "Chino MODERN Slim Fit",
+              "imageUrl": "https://cms.brnstc.de/product_images/435x596/19/08/100090456712000_0.jpg",
+              "buttons": [
+                {
+                  "title": "Buy",
+                  "type": "BUTTON_1_TYPE",
+                  "value": "BUTTON_1_VALUE"
+                }
+              ]
+            }
+          ]
+        }
+    ],
+    "conversation": {
+      "language": "en"
+    }
+  }

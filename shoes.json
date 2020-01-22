@@ -1,0 +1,48 @@
+{
+    "replies": [
+      {
+          "type": "carousel",
+          "content": [
+            {
+              "title": "VALENTINO GARAVANI",
+              "subtitle": "Sneaker BACKNET",
+              "imageUrl": "https://cms.brnstc.de/product_images/435x596/19/09/100100184111000_0.jpg",
+              "buttons": [
+                {
+                  "title": "Buy",
+                  "type": "BUTTON_1_TYPE",
+                  "value": "BUTTON_1_VALUE"
+                }
+              ]
+            },
+            {
+              "title": "GIVENCHY",
+              "subtitle": "Sneaker URBAN STREET",
+              "imageUrl": "https://cms.brnstc.de/product_images/435x596/19/06/100087853911000_0.jpg",
+              "buttons": [
+                {
+                  "title": "Buy",
+                  "type": "BUTTON_1_TYPE",
+                  "value": "BUTTON_1_VALUE"
+                }
+              ]
+            },
+            {
+              "title": "GOLDEN GOOSE DELUXE BRAND",
+              "subtitle": "Sneaker SUPERSTAR",
+              "imageUrl": "https://cms.brnstc.de/product_images/435x596/19/08/100089673311000_0.jpg",
+              "buttons": [
+                {
+                  "title": "Buy",
+                  "type": "BUTTON_1_TYPE",
+                  "value": "BUTTON_1_VALUE"
+                }
+              ]
+            }
+          ]
+        }
+    ],
+    "conversation": {
+      "language": "en"
+    }
+  }
